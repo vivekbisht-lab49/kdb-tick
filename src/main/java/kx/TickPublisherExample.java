@@ -58,7 +58,7 @@ public class TickPublisherExample {
         //Create Object[] for holding typed arrays
         Object[] data = new Object[] {sym, bid, ask, bSize, aSize};
         //Call .u.upd asynchronously
-        qConnection.ks(".u.upd", "quote", data);
+        qConnection.ks(".u.upd", "trade", data);
 		
 	}
 

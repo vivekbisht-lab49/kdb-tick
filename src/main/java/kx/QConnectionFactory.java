@@ -41,6 +41,5 @@ public class QConnectionFactory {
 	public static QConnectionFactory getDefault() {
 		return new QConnectionFactory("localhost", 5010);
 	}
-	
 
 }

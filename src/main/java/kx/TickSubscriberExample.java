@@ -5,7 +5,7 @@ import java.io.IOException;
 import kx.c.KException;
 
 /**
- * Example methods demonstrating the steps taken to subscribe to and receieve tick data from a kdb+ tickerplant instance.
+ * Example methods demonstrating the steps taken to subscribe to and receieve tick data from a kdb+ ticker plant instance.
  * @author plyness
  *
  */
